@@ -83,6 +83,7 @@ The goal is to transform raw sales data into actionable business insights.
 
 **Kathir Ranjanaa**
 
+- 📧 Email: kathirranjanaas@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kathir-ranjanaa-s  
 - GitHub: https://github.com/Kathirranjanaa  
 
