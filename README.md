@@ -81,9 +81,11 @@ The goal is to transform raw sales data into actionable business insights.
 
 ## 📬 Contact
 
-Kathir Ranjanaa  
-LinkedIn: https://www.linkedin.com/in/kathir-ranjanaa-s  
-GitHub: https://github.com/Kathirranjanaa
+**Kathir Ranjanaa**
 
+- LinkedIn: https://www.linkedin.com/in/kathir-ranjanaa-s  
+- GitHub: https://github.com/Kathirranjanaa  
+
+---
 
 ⭐ If you like this project, feel free to star the repository!
