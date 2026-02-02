@@ -47,8 +47,8 @@ The goal is to transform raw sales data into actionable business insights.
 
 ## 📁 Files
 
-- `Dashboard/Excel Dashboard.xlsx` – Main dashboard file  
-- `Data/Sales and Profit Dataset.xlsx` – Source dataset  
+- `Dashboard/Excel_Sales_Profit_Dashboard.xlsx` – Main dashboard file  
+- `Data/Sales_and_Profit_Dataset.xlsx` – Source dataset  
 - `Dashboard/Screenshots/dashboard-overview.png` – Dashboard preview  
 
 ---
@@ -61,7 +61,7 @@ The goal is to transform raw sales data into actionable business insights.
 
 ## 📌 How to Use
 
-1. Download `Excel Dashboard.xlsx`
+1. Download `Excel_Sales_Profit_Dashboard.xlsx`
 2. Open in Excel
 3. Enable editing
 4. Refresh data if needed (Data → Refresh All)
@@ -78,5 +78,12 @@ The goal is to transform raw sales data into actionable business insights.
 - A small group of customers generates significant profit
 
 ---
+
+## 📬 Contact
+
+Kathir Ranjanaa  
+LinkedIn: https://www.linkedin.com/in/kathir-ranjanaa-s  
+GitHub: https://github.com/Kathirranjanaa
+
 
 ⭐ If you like this project, feel free to star the repository!
