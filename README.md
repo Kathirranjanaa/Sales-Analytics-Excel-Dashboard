@@ -47,15 +47,15 @@ The goal is to transform raw sales data into actionable business insights.
 
 ## 📁 Files
 
-- `Dashboard/Excel_Sales_Profit_Dashboard.xlsx` – Main dashboard file  
-- `Data/Sales_and_Profit_Dataset.xlsx` – Source dataset  
-- `Dashboard/Screenshots/dashboard-overview.png` – Dashboard preview  
+- `Sales-Analytics-Excel-Dashboard/Dashboard/Excel_Sales_Profit_Dashboard.xlsx` – Main dashboard file  
+- `Sales-Analytics-Excel-Dashboard/Data/Sales_and_Profit_Dataset.xlsx` – Source dataset  
+- `Sales-Analytics-Excel-Dashboard/Dashboard/Screenshots/dashboard-overview.png` – Dashboard preview  
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](Dashboard/Screenshots/dashboard-overview.png)
+![Dashboard Overview](Sales-Analytics-Excel-Dashboard/Dashboard/Screenshots/dashboard-overview.png)
 
 ---
 
